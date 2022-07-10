@@ -1,22 +1,14 @@
 [
   {
-    "name":"Caltural",
+    "name":"Short Story",
     "image":"https://i.imgur.com/pMSzzL4.jpeg"
   },
   {
-    "name":"Novel",
+    "name":"Long Story",
     "image":"https://i.imgur.com/pMSzzL4.jpeg"
   },
   {
-    "name":"Novel",
-    "image":"https://i.imgur.com/pMSzzL4.jpeg"
-  },
-  {
-    "name":"Caltural",
-    "image":"https://i.imgur.com/pMSzzL4.jpeg"
-  },
-  {
-    "name":"Caltural",
+    "name":"Episode Story",
     "image":"https://i.imgur.com/pMSzzL4.jpeg"
   },
 ]
